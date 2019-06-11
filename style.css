@@ -25,6 +25,10 @@ h2 {
   font-size: 1.44rem;
 }
 
+.mb-0 {
+  font-size: 1.25rem;
+}
+
 img {
   display: block;
 	max-width: 100%;
