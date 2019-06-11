@@ -2,6 +2,11 @@
   box-sizing: border-box;
 }
 
+html {
+  font-family: "Lucida Grande","Lucida Sans Unicode", Tahoma, Sans-Serif;
+  font-size: 62.5%;
+}
+
 body {
   background-color: grey;
   margin-top: 40px;
